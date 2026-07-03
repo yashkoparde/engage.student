@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Directory for instrumented libs
+lib-cov
+
+# Coverage directory
+coverage
+
+# Node modules
+node_modules/
+
+# Build
+dist/
+
+# Environment
+.env
+.env.local
