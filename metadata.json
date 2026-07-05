@@ -1,0 +1,8 @@
+{
+  "name": "Engage",
+  "description": "Engage is a premium, real-time classroom participation web application featuring live MCQs, speed-based gamification, interactive confusion feedback, and live animated leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
